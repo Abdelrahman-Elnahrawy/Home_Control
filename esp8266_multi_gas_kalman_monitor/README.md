@@ -1,9 +1,9 @@
 # 🌡️ Multi-Gas & Temperature Monitor (ESP8266)
 
-[![Platform](https://img.shields.io/badge/Platform-ESP8266-blue.svg)](https://www.espressif.com/en/products/socs/esp8266)  
-[![Language](https://img.shields.io/badge/Language-C%2B%2B-green.svg)](https://www.arduino.cc/)  
-[![MQTT](https://img.shields.io/badge/MQTT-Supported-orange.svg)](http://mqtt.org/)  
-[![Author](https://img.shields.io/badge/Author-Abdelrahman--Elnahrawy-orange.svg)]  
+[![Platform](https://img.shields.io/badge/Platform-ESP8266-blue.svg)](https://www.espressif.com/en/products/socs/esp8266)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B-green.svg)](https://www.arduino.cc/)
+[![MQTT](https://img.shields.io/badge/MQTT-Supported-orange.svg)](http://mqtt.org/)
+![Author](https://img.shields.io/badge/Author-Abdelrahman--Elnahrawy-orange.svg)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
